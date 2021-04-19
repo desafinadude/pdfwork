@@ -6,7 +6,7 @@ import ReactDOM from "react-dom";
 
 export default class Sample extends Component {
   state = {
-    file: './public/test.pdf',
+    file: './test.pdf',
     numPages: null,
     pagesRendered: null,
   }
